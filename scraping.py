@@ -14,6 +14,8 @@ def run(url):
 
     fin=open('tags.txt','r') # input file
     fw=open('questions.txt','w') # output file
+    log=open('log.txt','w') # log file
+    
     c = 1 #just a counter for questions scraped
     vote_cutoff = -1 #vote threshold
     pageNum=41 # number of pages to collect
@@ -22,6 +24,8 @@ def run(url):
         html=None
         tag=line.lower().strip()
         print(tag)
+        log.write('tag: ')
+        log.write(tag+'\n')
         for n in range(pageNum):    
             if n == 0: continue
             pageLink=url+tag+'-interview-questions&n='+str(n) # make the page url
@@ -46,6 +50,7 @@ def run(url):
             for question in questions:
                 if question == questions[0]:
                     print('Page '+str(n))
+                    log.write('Page '+str(n)+'\n')
                 votes,text='NA','NA' # initialize votes and text 
                 votes = int(question.find('div', {'class':re.compile("votesNetQuestion")}).text)
                 if votes > vote_cutoff :
@@ -53,7 +58,9 @@ def run(url):
                     fw.write(tag + "\t\t\t\t\t" + text +'\n\n')
                     c=c+1
         print('Total Questions Scraped:'+str(c))
+        log.write('Total Questions Scraped:'+str(c)+'\n')
     fw.close()
+    log.close()
 
 if __name__=='__main__':
     url='https://www.careercup.com/page?pid='
