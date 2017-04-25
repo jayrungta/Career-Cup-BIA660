@@ -66,7 +66,7 @@ def run(url):
                 votes,text='NA','NA' # initialize votes and text 
                 votes = int(question.find('div', {'class':re.compile("votesNetQuestion")}).text)
                 if votes > vote_cutoff :
-                    text = question.find('p').text.replace("\r", " ").replace("\n", " ")
+                    text = question.find('p').text.replace("\r", " ").replace("\n", " ").replace("\t", " ")
                     arr1.append(tag + "\t" + str(votes) + "\t" + text +'\n')
                     fw.write(tag + "\t" + str(votes) + "\t" + text +'\n')
                     c=c + 1

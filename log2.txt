@@ -1,0 +1,683 @@
+tag: algorithm
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Page 12
+Page 13
+Page 14
+Page 15
+Page 16
+Page 17
+Page 18
+Page 19
+Page 20
+Page 21
+Page 22
+Page 23
+Page 24
+Page 25
+Page 26
+Page 27
+Page 28
+Page 29
+Page 30
+Page 31
+Page 32
+Page 33
+Page 34
+Page 35
+Page 36
+Page 37
+Page 38
+Page 39
+Page 40
+Page 41
+Questions Added to Tag:1145
+Questions Added to Test:90
+Questions Added to Train:1055
+Total Questions Added to Testing:90
+Total Questions Added to Training:1055
+
+Total Questions Scraped:1145
+tag: data-structures
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Page 12
+Page 13
+Page 14
+Page 15
+Page 16
+Page 17
+Page 18
+Page 19
+Page 20
+Page 21
+Page 22
+Page 23
+Page 24
+Page 25
+Page 26
+Page 27
+Questions Added to Tag:744
+Questions Added to Test:64
+Questions Added to Train:680
+Total Questions Added to Testing:154
+Total Questions Added to Training:1735
+
+Total Questions Scraped:1889
+tag: coding
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Page 12
+Page 13
+Page 14
+Page 15
+Page 16
+Page 17
+Page 18
+Page 19
+Page 20
+Page 21
+Page 22
+Page 23
+Page 24
+Page 25
+Page 26
+Page 27
+Page 28
+Page 29
+Page 30
+Page 31
+Page 32
+Questions Added to Tag:905
+Questions Added to Test:79
+Questions Added to Train:826
+Total Questions Added to Testing:233
+Total Questions Added to Training:2561
+
+Total Questions Scraped:2794
+tag: object-oriented-design
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Page 12
+Questions Added to Tag:333
+Questions Added to Test:29
+Questions Added to Train:304
+Total Questions Added to Testing:262
+Total Questions Added to Training:2865
+
+Total Questions Scraped:3127
+tag: c-plus-plus
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Page 12
+Page 13
+Page 14
+Page 15
+Page 16
+Page 17
+Page 18
+Page 19
+Questions Added to Tag:524
+Questions Added to Test:45
+Questions Added to Train:479
+Total Questions Added to Testing:307
+Total Questions Added to Training:3344
+
+Total Questions Scraped:3651
+tag: c
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Page 12
+Page 13
+Page 14
+Page 15
+Page 16
+Page 17
+Page 18
+Page 19
+Questions Added to Tag:551
+Questions Added to Test:49
+Questions Added to Train:502
+Total Questions Added to Testing:356
+Total Questions Added to Training:3846
+
+Total Questions Scraped:4202
+tag: arrays
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Page 12
+Page 13
+Page 14
+Page 15
+Questions Added to Tag:409
+Questions Added to Test:31
+Questions Added to Train:378
+Total Questions Added to Testing:387
+Total Questions Added to Training:4224
+
+Total Questions Scraped:4611
+tag: java
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Page 12
+Page 13
+Page 14
+Page 15
+Page 16
+Page 17
+Page 18
+Page 19
+Page 20
+Page 21
+Page 22
+Page 23
+Page 24
+Page 25
+Questions Added to Tag:681
+Questions Added to Test:58
+Questions Added to Train:623
+Total Questions Added to Testing:445
+Total Questions Added to Training:4847
+
+Total Questions Scraped:5292
+tag: brain-teasers
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Questions Added to Tag:309
+Questions Added to Test:24
+Questions Added to Train:285
+Total Questions Added to Testing:469
+Total Questions Added to Training:5132
+
+Total Questions Scraped:5601
+tag: behavioral
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Questions Added to Tag:202
+Questions Added to Test:15
+Questions Added to Train:187
+Total Questions Added to Testing:484
+Total Questions Added to Training:5319
+
+Total Questions Scraped:5803
+tag: terminology-trivia
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Questions Added to Tag:292
+Questions Added to Test:26
+Questions Added to Train:266
+Total Questions Added to Testing:510
+Total Questions Added to Training:5585
+
+Total Questions Scraped:6095
+tag: trees-and-graphs
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Questions Added to Tag:257
+Questions Added to Test:20
+Questions Added to Train:237
+Total Questions Added to Testing:530
+Total Questions Added to Training:5822
+
+Total Questions Scraped:6352
+tag: testing
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Questions Added to Tag:295
+Questions Added to Test:26
+Questions Added to Train:269
+Total Questions Added to Testing:556
+Total Questions Added to Training:6091
+
+Total Questions Scraped:6647
+tag: string-manipulation
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Questions Added to Tag:164
+Questions Added to Test:14
+Questions Added to Train:150
+Total Questions Added to Testing:570
+Total Questions Added to Training:6241
+
+Total Questions Scraped:6811
+tag: system-design
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Questions Added to Tag:141
+Questions Added to Test:12
+Questions Added to Train:129
+Total Questions Added to Testing:582
+Total Questions Added to Training:6370
+
+Total Questions Scraped:6952
+tag: database
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Questions Added to Tag:166
+Questions Added to Test:14
+Questions Added to Train:152
+Total Questions Added to Testing:596
+Total Questions Added to Training:6522
+
+Total Questions Scraped:7118
+tag: computer-architecture-low-level
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Questions Added to Tag:117
+Questions Added to Test:10
+Questions Added to Train:107
+Total Questions Added to Testing:606
+Total Questions Added to Training:6629
+
+Total Questions Scraped:7235
+tag: application-ui-design
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Questions Added to Tag:162
+Questions Added to Test:13
+Questions Added to Train:149
+Total Questions Added to Testing:619
+Total Questions Added to Training:6778
+
+Total Questions Scraped:7397
+tag: operating-system
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Questions Added to Tag:175
+Questions Added to Test:14
+Questions Added to Train:161
+Total Questions Added to Testing:633
+Total Questions Added to Training:6939
+
+Total Questions Scraped:7572
+tag: linked-lists
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Questions Added to Tag:140
+Questions Added to Test:11
+Questions Added to Train:129
+Total Questions Added to Testing:644
+Total Questions Added to Training:7068
+
+Total Questions Scraped:7712
+tag: linux-kernel
+Page 1
+Page 2
+Page 3
+Questions Added to Tag:71
+Questions Added to Test:5
+Questions Added to Train:66
+Total Questions Added to Testing:649
+Total Questions Added to Training:7134
+
+Total Questions Scraped:7783
+tag: networking-web-internet
+Page 1
+Page 2
+Page 3
+Questions Added to Tag:82
+Questions Added to Test:7
+Questions Added to Train:75
+Total Questions Added to Testing:656
+Total Questions Added to Training:7209
+
+Total Questions Scraped:7865
+tag: problem-solving
+Page 1
+Page 2
+Page 3
+Questions Added to Tag:66
+Questions Added to Test:5
+Questions Added to Train:61
+Total Questions Added to Testing:661
+Total Questions Added to Training:7270
+
+Total Questions Scraped:7931
+tag: math-computation
+Page 1
+Page 2
+Page 3
+Page 4
+Questions Added to Tag:109
+Questions Added to Test:9
+Questions Added to Train:100
+Total Questions Added to Testing:670
+Total Questions Added to Training:7370
+
+Total Questions Scraped:8040
+tag: software-design
+Page 1
+Page 2
+Questions Added to Tag:41
+Questions Added to Test:3
+Questions Added to Train:38
+Total Questions Added to Testing:673
+Total Questions Added to Training:7408
+
+Total Questions Scraped:8081
+tag: sql
+Page 1
+Page 2
+Questions Added to Tag:38
+Questions Added to Test:3
+Questions Added to Train:35
+Total Questions Added to Testing:676
+Total Questions Added to Training:7443
+
+Total Questions Scraped:8119
+tag: sorting
+Page 1
+Page 2
+Questions Added to Tag:42
+Questions Added to Test:4
+Questions Added to Train:38
+Total Questions Added to Testing:680
+Total Questions Added to Training:7481
+
+Total Questions Scraped:8161
+tag: experience
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Questions Added to Tag:134
+Questions Added to Test:10
+Questions Added to Train:124
+Total Questions Added to Testing:690
+Total Questions Added to Training:7605
+
+Total Questions Scraped:8295
+tag: hash-table
+Page 1
+Page 2
+Questions Added to Tag:49
+Questions Added to Test:4
+Questions Added to Train:45
+Total Questions Added to Testing:694
+Total Questions Added to Training:7650
+
+Total Questions Scraped:8344
+tag: debugging
+Page 1
+Page 2
+Questions Added to Tag:42
+Questions Added to Test:3
+Questions Added to Train:39
+Total Questions Added to Testing:697
+Total Questions Added to Training:7689
+
+Total Questions Scraped:8386
+tag: unix
+Page 1
+Page 2
+Questions Added to Tag:33
+Questions Added to Test:2
+Questions Added to Train:31
+Total Questions Added to Testing:699
+Total Questions Added to Training:7720
+
+Total Questions Scraped:8419
+tag: threads
+Page 1
+Page 2
+Page 3
+Page 4
+Questions Added to Tag:100
+Questions Added to Test:8
+Questions Added to Train:92
+Total Questions Added to Testing:707
+Total Questions Added to Training:7812
+
+Total Questions Scraped:8519
+tag: probability
+Page 1
+Questions Added to Tag:26
+Questions Added to Test:2
+Questions Added to Train:24
+Total Questions Added to Testing:709
+Total Questions Added to Training:7836
+
+Total Questions Scraped:8545
+tag: php
+Page 1
+Page 2
+Questions Added to Tag:30
+Questions Added to Test:2
+Questions Added to Train:28
+Total Questions Added to Testing:711
+Total Questions Added to Training:7864
+
+Total Questions Scraped:8575
+tag: large-scale-computing
+Page 1
+Page 2
+Questions Added to Tag:32
+Questions Added to Test:2
+Questions Added to Train:30
+Total Questions Added to Testing:713
+Total Questions Added to Training:7894
+
+Total Questions Scraped:8607
+tag: matrix
+Page 1
+Page 2
+Questions Added to Tag:39
+Questions Added to Test:3
+Questions Added to Train:36
+Total Questions Added to Testing:716
+Total Questions Added to Training:7930
+
+Total Questions Scraped:8646
+tag: javascript
+Page 1
+Questions Added to Tag:13
+Questions Added to Test:1
+Questions Added to Train:12
+Total Questions Added to Testing:717
+Total Questions Added to Training:7942
+
+Total Questions Scraped:8659
+tag: android
+Page 1
+Questions Added to Tag:14
+Questions Added to Test:1
+Questions Added to Train:13
+Total Questions Added to Testing:718
+Total Questions Added to Training:7955
+
+Total Questions Scraped:8673
+tag: stacks
+Page 1
+Questions Added to Tag:22
+Questions Added to Test:2
+Questions Added to Train:20
+Total Questions Added to Testing:720
+Total Questions Added to Training:7975
+
+Total Questions Scraped:8695
+tag: security
+Page 1
+Questions Added to Tag:18
+Questions Added to Test:1
+Questions Added to Train:17
+Total Questions Added to Testing:721
+Total Questions Added to Training:7992
+
+Total Questions Scraped:8713
+tag: puzzle
+Page 1
+Questions Added to Tag:14
+Questions Added to Test:1
+Questions Added to Train:13
+Total Questions Added to Testing:722
+Total Questions Added to Training:8005
+
+Total Questions Scraped:8727
+tag: python
+Page 1
+Questions Added to Tag:15
+Questions Added to Test:1
+Questions Added to Train:14
+Total Questions Added to Testing:723
+Total Questions Added to Training:8019
+
+Total Questions Scraped:8742
+tag: xml
+Page 1
+Questions Added to Tag:9
+Questions Added to Test:0
+Questions Added to Train:9
+Total Questions Added to Testing:723
+Total Questions Added to Training:8028
+
+Total Questions Scraped:8751
+tag: bit-manipulation
+Page 1
+Page 2
+Page 3
+Questions Added to Tag:80
+Questions Added to Test:6
+Questions Added to Train:74
+Total Questions Added to Testing:729
+Total Questions Added to Training:8102
+
+Total Questions Scraped:8831
